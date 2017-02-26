@@ -1,0 +1,2 @@
+# global.comm
+outside 
